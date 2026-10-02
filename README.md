@@ -296,14 +296,6 @@ O desenvolvimento deste projeto ajudou a aprofundar conhecimentos que foram util
 
 ---
 
-## Status
-
-**Concluído**
-
-Projeto desenvolvido durante meus estudos para aprofundamento dos fundamentos de **JavaScript e desenvolvimento web**.
-
----
-
 ## Autor
 
 **Ihago Lamarcks**
