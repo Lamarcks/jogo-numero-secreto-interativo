@@ -16,7 +16,7 @@ Evolução do projeto de lógica de programação com JavaScript, utilizando fun
 
 ## Sobre o projeto
 
-O **Jogo do Número Secreto — Versão Interativa** é uma evolução do primeiro projeto de Jogo do Número Secreto desenvolvido durante meus estudos na **Alura + Oracle Next Education (ONE)**.
+O **Jogo do Número Secreto - Versão Interativa** é uma evolução do primeiro projeto de Jogo do Número Secreto desenvolvido durante meus estudos na **Alura + Oracle Next Education (ONE)**.
 
 Nesta versão, a lógica do jogo foi integrada a uma **interface web**, permitindo que o jogador informe seus palpites diretamente na página e receba dicas até descobrir o número secreto.
 
