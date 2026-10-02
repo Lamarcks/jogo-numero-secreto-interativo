@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jogo do Número Secreto — Versão Interativa
+# Jogo do Número Secreto - Versão Interativa
 
 Evolução do projeto de lógica de programação com JavaScript, utilizando funções, manipulação do DOM e interação com uma interface web.
 
